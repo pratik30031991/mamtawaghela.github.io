@@ -1,0 +1,284 @@
+body{
+  background-color: #EAF6F6;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  color: #66BFBF;
+  font-family: "Sacramento",cursive;
+  font-size: 3.625rem;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+h2{
+color: 	#00ced1;
+  font-weight: normal;
+font-family: "Merriweather",serif;
+padding-bottom: 20px;
+padding-top: 30px;
+}
+
+p{
+color: #40514E;
+font-family: "Montserrat",serif;
+line-height: 2;
+width: auto;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
+
+.topcloud{
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+
+}
+.mount{
+
+  width: 400px;
+  height: 400px;
+
+}
+.bottomcloud{
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  left: 60px;
+  bottom: 200px;
+}
+.profilepic{
+  width: 200px;
+  height: 200px;
+}
+
+.skillsimage{
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+.careerimage{
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  top: 0;
+
+  margin-bottom: 10px;
+  padding-top: 30px;
+
+}
+
+.container-one{
+  background-color: #e0ffff;
+  margin-bottom: 100px;
+  padding-top: 30px;
+}
+
+.container-two{
+font-family: "Montserrat",serif;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.container-three{
+  font-family: "Montserrat",serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.acedemicimage{
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  top: 0;
+  margin-bottom: 10px;
+  padding-top: 30px;
+
+}
+
+.compskillimage{
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  top: 0;
+  margin-bottom: 10px;
+  padding-top: 30px;
+}
+.compskillintro{
+  width: 50%;
+  margin:auto;
+}
+
+.personalinfo{
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  top: 0;
+  margin-bottom: 10px;
+  padding-top: 30px;
+}
+
+.but {
+	background-color:#7892c2;
+	border-radius:20px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#141214;
+	font-family:Arial;
+	font-size:17px;
+	padding:3px 7px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.but:hover {
+	background-color:#476e9e;
+}
+.but:active {
+	position:relative;
+	top:1px;
+}
+
+
+.button {
+	background-color:#7892c2;
+	border-radius:20px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#141214;
+	font-family:Arial;
+	font-size:17px;
+	padding:5px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.button:hover {
+	background-color:#476e9e;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.button {
+	background-color:#7892c2;
+	border-radius:20px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#141214;
+	font-family:Arial;
+	font-size:17px;
+	padding:5px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.button:hover {
+	background-color:#476e9e;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+.footer-link {
+	background-color:#79bbff;
+	border-radius:20px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:5px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.footer-link:hover {
+	background-color:#378de5;
+}
+.footer-link:active {
+	position:relative;
+	top:1px;
+}
+.footer-twit {
+	background-color:#79bbff;
+	border-radius:20px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:5px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.footer-twit:hover {
+	background-color:#378de5;
+}
+.footer-twit:active {
+	position:relative;
+	top:1px;
+}
+.end-line{
+  font-size: 10px;
+}
+
+.back-link {
+	background-color:#599bb3;
+	border-radius:20px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:5px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.back-link:hover {
+	background-color:#408c99;
+}
+.back-link:active {
+	position:relative;
+	top:1px;
+}
